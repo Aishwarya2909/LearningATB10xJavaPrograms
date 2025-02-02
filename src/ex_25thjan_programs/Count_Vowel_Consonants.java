@@ -17,7 +17,9 @@ public class Count_Vowel_Consonants {
          if(name.charAt(i)=='a'||name.charAt(i)=='e'||name.charAt(i)=='i'||name.charAt(i)=='o'||name.charAt(i)=='u')
          {
              vowel_count++;
-         } else if (name.charAt(i)>'a'&&name.charAt(i)<='z') {
+         }
+         else if (name.charAt(i)>'a'&&name.charAt(i)<='z')
+         {
              consonant_count++;
          }
       }
