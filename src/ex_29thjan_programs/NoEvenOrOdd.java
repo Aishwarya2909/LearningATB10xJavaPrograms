@@ -16,7 +16,4 @@ public class NoEvenOrOdd {
             System.out.println("Number is Odd");
         }
     }
-    // output: Enter the number
-    //50
-    //Number is a Even
 }

@@ -16,7 +16,4 @@ public class NoPositiveandNegative {
             System.out.println("Number is Negative");
         }
     }
-// Enter the number
-//85
-//Number is a positive
 }
