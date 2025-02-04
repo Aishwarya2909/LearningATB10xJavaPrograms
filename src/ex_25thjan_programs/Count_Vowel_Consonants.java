@@ -7,7 +7,6 @@ public class Count_Vowel_Consonants {
 
     public static void main(String[] args) {
         int vowel_count=0,consonant_count=0;
-//      String name ="aishwarya";
         Scanner s = new Scanner(System.in);
         System.out.println("Enter your name");
         String name = s.nextLine();

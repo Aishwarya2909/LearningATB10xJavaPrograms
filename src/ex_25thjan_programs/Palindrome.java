@@ -3,7 +3,7 @@ package ex_25thjan_programs;
 public class Palindrome {
     public static void main(String[] args) {
         String name = "naman";
-        name = name.toLowerCase();
+//        name = name.toLowerCase();
         String strrev ="";
         for(int i=name.length()-1;i>=0;i--)
         {
