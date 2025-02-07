@@ -59,6 +59,5 @@ public class GradeMarks {
             }
             System.out.println(grade+ " Grade ");
         }
-
     }
 }

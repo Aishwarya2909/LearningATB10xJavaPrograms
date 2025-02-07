@@ -18,5 +18,5 @@ public class Triangle_IsValid {
         else {
             System.out.println("It is a Invalid Triangle");
         }
-    }
+       }
 }

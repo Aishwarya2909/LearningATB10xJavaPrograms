@@ -9,7 +9,7 @@ public class LargestOfThreeNos {
        int a = sc.nextInt();
         System.out.println("Enter a Number of B");
        int b= sc.nextInt();
-        System.out.println("Enter a Number of C");
+       System.out.println("Enter a Number of C");
        int c= sc.nextInt();
        if(a>b)
        {

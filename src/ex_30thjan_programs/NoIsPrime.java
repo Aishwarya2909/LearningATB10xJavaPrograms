@@ -29,7 +29,6 @@ public class NoIsPrime {
             else {
                 System.out.println( num + " is not a Prime Number");
             }
-
         }
     }
 }

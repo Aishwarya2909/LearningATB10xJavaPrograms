@@ -23,5 +23,5 @@ public class SmallestOfThreeNos {
         {
                 System.out.println("C is the smallest number " +c);
         }
-    }
+     }
 }

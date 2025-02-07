@@ -17,5 +17,5 @@ public class SmallestOfTwoNos {
         {
             System.out.println("b is the smallest " +b);
         }
-    }
+        }
 }
