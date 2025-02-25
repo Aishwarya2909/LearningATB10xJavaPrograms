@@ -9,6 +9,7 @@ public class PersonIsEligibleForLoan {
         double salary = sc.nextDouble();
         System.out.println("Enter the Credit Score");
         int credit_score = sc.nextInt();
+
             if(age>18&&age<80 && salary>15000&&salary<30000 && credit_score>650&&credit_score<750)
             {
                 System.out.println("Eligible for loan");

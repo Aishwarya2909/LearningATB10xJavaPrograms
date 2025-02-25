@@ -16,7 +16,6 @@ public class AmstrongNumber {
             System.out.println(num + " is not a Amstrong Number");
         }
     }
-
     public static boolean isAmstrongNumber(int num)
     {
         int original = num;

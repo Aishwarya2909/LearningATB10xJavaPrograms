@@ -15,7 +15,6 @@ public class NoPalindrome {
         }
 
     }
-
     public static boolean isPalindrome(int num) //num = user input
     {
         int original_num = num;
