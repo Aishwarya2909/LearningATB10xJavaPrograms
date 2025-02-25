@@ -15,6 +15,7 @@ public class EmployeeNetSalary {
         System.out.println("Enter the tax percentage");
         double tax_percentage=sc.nextDouble();
         int hra_amt,da_amt,tax_amt,gross_salary,net_salary;
+
         if(basic_pay>0)
         {
             System.out.println("Basic pay : " +basic_pay);

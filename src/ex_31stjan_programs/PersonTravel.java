@@ -8,6 +8,7 @@ public class PersonTravel {
         System.out.println("Enter the age");
         int age = sc.nextInt();
         System.out.println("Enter the passport valid or not valid");
+
         String passport = sc.next();
         {
             if (passport.equals("valid") && age>=18)

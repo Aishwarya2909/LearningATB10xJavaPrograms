@@ -7,6 +7,7 @@ public class AmstrongNumber {
      Scanner sc = new Scanner(System.in);
      System.out.println("Enter the Amstrong number");
      int num = sc.nextInt();
+
      if(isAmstrongNumber(num))
      {
          System.out.println(num + " is a Amstrong Number");

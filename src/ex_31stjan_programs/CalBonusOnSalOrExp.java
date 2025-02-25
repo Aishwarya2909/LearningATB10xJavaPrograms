@@ -10,7 +10,6 @@ public class CalBonusOnSalOrExp {
         System.out.println("Enter the years of Experience");
         float exp = sc.nextFloat();
         int total_Salary = 0 ;
-
         if(exp<=3) {
             total_Salary = (int) (salary*5/100)+salary;
             System.out.println("Before Bonus : " +salary);
