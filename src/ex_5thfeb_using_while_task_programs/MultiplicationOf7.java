@@ -8,6 +8,7 @@ public class MultiplicationOf7 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the multiply number");
         int num = sc.nextInt();
+
         while(num>0){
 
             for (int i = 1; i <= 10; i++) {
