@@ -6,7 +6,7 @@ public class MultiplicationOf7 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the multiply number");
+        System.out.println("Enter the multiply number");// Enter the number 7
         int num = sc.nextInt();
 
         while(num>0){
