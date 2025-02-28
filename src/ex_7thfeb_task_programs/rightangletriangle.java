@@ -3,7 +3,6 @@ package ex_7thfeb_task_programs;
 import java.util.Scanner;
 
 public class rightangletriangle {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of rows: ");
