@@ -24,8 +24,6 @@ public class ExOfAbAndOverideFunc {
             this.author= auth;
             this.price = pr;
         }
-
-
     }
 
     class PrintByBook extends Book {
