@@ -33,7 +33,8 @@ public class ExOfAbAndOverideFunc {
             return name + ", " + author + ", " + price ;
         }
 
-        PrintByBook(String nam, String auth, String pr) {
+        PrintByBook(String nam, String auth, String pr)
+        {
             super(nam, auth, pr);
         }
     }
